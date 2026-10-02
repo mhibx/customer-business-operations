@@ -4,8 +4,6 @@ This section documents selected professional work involving CRM management, cust
 
 The work documented here comes from my previous professional experience and is based on the available portfolio evidence from that period.
 
----
-
 ## Overview
 
 My CRM-related work focused on managing customer lifecycle activities and using CRM systems to support onboarding, engagement, retention, and conversion.
@@ -13,8 +11,6 @@ My CRM-related work focused on managing customer lifecycle activities and using 
 My responsibilities included working with customer segments, designing and managing lifecycle campaigns, and coordinating communication flows across different customer touchpoints.
 
 I also worked closely with operations and marketing teams to identify user behavior patterns, optimize communication flows, and support scalable customer engagement initiatives.
-
----
 
 ## Areas of Work
 
@@ -32,15 +28,11 @@ Activities included:
 - Retention activities
 - Conversion-focused communication
 
----
-
 ### User Segmentation
 
 Worked with customer and user segments to support more relevant communication and lifecycle activities.
 
 Segmentation was used as part of CRM workflows to determine how users should be engaged based on their position within the customer journey.
-
----
 
 ### CRM Automation
 
@@ -56,8 +48,6 @@ These workflows supported activities such as:
 - Follow-up communication
 
 The portfolio evidence includes visual workflow examples showing automated communication across multiple channels.
-
----
 
 ## Selected Professional Work
 
@@ -81,8 +71,6 @@ The work involved coordinating CRM activities with broader marketing and operati
 
 - Netcore / WebEngage
 
----
-
 ### 2. User Engagement & Onboarding Workflow
 
 Designed and executed onboarding and retention workflows using multiple customer communication channels.
@@ -98,8 +86,6 @@ The workflow was designed to support customer activation and help users progress
 
 ![User Engagement Workflow](../../assets/professional-work/customer-engagement/onboarding-workflow.png)
 
----
-
 ### 3. Customer Journey & Transaction Engagement
 
 Developed CRM communication flows to engage users at different points within the transaction journey.
@@ -109,8 +95,6 @@ One documented workflow focused on engaging users who had entered the transactio
 The work used automated communication and follow-up flows to support purchase completion.
 
 ![Transaction Engagement Workflow](../../assets/professional-work/customer-engagement/transaction-flow.png)
-
----
 
 ## Tools
 
@@ -134,8 +118,6 @@ Tools documented in my previous portfolio include:
 
 > Tool usage may differ between projects. Specific tools will only be attributed to a case study where the available documentation supports it.
 
----
-
 ## Evidence
 
 The original portfolio contains visual evidence of CRM workflows and customer engagement activities.
@@ -149,8 +131,6 @@ Available evidence includes:
 - Screenshots of communication flows
 
 Additional screenshots and extracted visual assets are stored in the repository's `assets/` directory.
-
----
 
 ## Notes on Documentation
 
