@@ -12,7 +12,7 @@ Supported customer-facing and promotional communication through copywriting acti
 
 The work included preparing and adapting written communication for customer engagement and promotional purposes.
 
-![Copywriting Reference](../assets/copywriting-messaging-reference.png)
+![Web & Application Manual QA](../assets/qa-mobile-web-check.png)
 
 **Focus:**
 
@@ -27,7 +27,7 @@ Performed manual quality assurance activities for web and application experience
 
 The work involved checking user-facing functionality and identifying issues that could affect the customer experience.
 
-![Web & Application Manual QA](../assets/qa-mobile-web-check.png)
+![Copywriting Reference](../assets/copywriting-messaging-reference.png)
 
 **Focus:**
 
