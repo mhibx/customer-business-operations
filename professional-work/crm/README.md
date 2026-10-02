@@ -94,8 +94,6 @@ One documented workflow focused on engaging users who had entered the transactio
 
 The work used automated communication and follow-up flows to support purchase completion.
 
-![CRM Customer Journey](../assets/crm-customer-journey-overview.png)
-
 ![CRM User Engagement Workflow](../assets/crm-user-engagement-workflow.png)
 
 ### 4. Lifecycle Automation Workflow
