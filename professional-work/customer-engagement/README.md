@@ -4,8 +4,6 @@ This section documents selected professional work involving customer engagement,
 
 The work documented here comes from my previous professional experience and is based on the available portfolio evidence from that period.
 
----
-
 ## Overview
 
 My customer engagement work focused on communicating with users throughout different stages of their customer journey.
@@ -13,8 +11,6 @@ My customer engagement work focused on communicating with users throughout diffe
 This included onboarding newly registered users, encouraging first-time purchases, supporting engagement during transaction flows, and using CRM communication to help move users toward their intended actions.
 
 The available portfolio material shows customer engagement workflows involving multiple communication channels and lifecycle stages.
-
----
 
 ## Areas of Work
 
@@ -32,8 +28,6 @@ Activities included:
 - Lifecycle communication
 - Multi-channel customer communication
 
----
-
 ### Transaction Journey Engagement
 
 Worked with customer engagement flows around the transaction journey.
@@ -48,15 +42,11 @@ Activities included:
 - Purchase completion support
 - Lifecycle automation
 
----
-
 ### Purchase Journey
 
 Worked with customer communication throughout the purchase journey, from initial engagement through transaction-related activities.
 
 The available portfolio evidence demonstrates how customer communication could be structured around different stages of the user's journey.
-
----
 
 ## Selected Professional Work
 
@@ -77,8 +67,6 @@ Documented channels include:
 
 The available portfolio material documents this work as part of user engagement and lifecycle activities.
 
----
-
 ### 2. Registered User → First Purchase
 
 Worked on customer engagement activities intended to move registered users toward their first purchase.
@@ -91,8 +79,6 @@ The documented workflow focused on communication and follow-up during the period
 - First-purchase engagement
 - Customer lifecycle
 - Automated communication
-
----
 
 ### 3. Transaction Journey Engagement
 
@@ -111,8 +97,6 @@ The workflow used customer communication to follow up with users during the tran
 - Follow-up communication
 - Purchase completion
 
----
-
 ### 4. Purchase Journey Engagement
 
 Worked with customer journey communication around purchase-related activities.
@@ -129,8 +113,6 @@ The available portfolio material includes documented customer journey examples s
 - Retention
 - Conversion
 
----
-
 ## Communication Channels
 
 The available portfolio evidence shows customer engagement activities involving multiple communication channels, including:
@@ -142,8 +124,6 @@ The available portfolio evidence shows customer engagement activities involving 
 - WhatsApp-based communication
 
 The specific channels used depended on the workflow and campaign.
-
----
 
 ## Engagement Workflow
 
