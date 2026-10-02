@@ -86,8 +86,6 @@ Developed engagement flows for users who entered the transaction journey.
 
 The workflow used customer communication to follow up with users during the transaction process and support purchase completion.
 
-![CRM Customer Journey](../assets/crm-customer-journey-overview.png)
-
 ![CRM User Engagement Workflow](../assets/crm-user-engagement-workflow.png)
 
 **Focus:**
