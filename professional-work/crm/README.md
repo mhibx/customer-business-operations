@@ -10,7 +10,7 @@ My CRM-related work focused on managing customer lifecycle activities and using 
 
 My responsibilities included working with customer segments, designing and managing lifecycle campaigns, and coordinating communication flows across different customer touchpoints.
 
-I also worked closely with operations and marketing teams to identify user behavior patterns, optimize communication flows, and support scalable customer engagement initiatives.
+I also worked closely with operations and marketing teams to support customer engagement initiatives and lifecycle activities.
 
 ## Areas of Work
 
@@ -84,7 +84,7 @@ The documented workflow includes automated communication using:
 
 The workflow was designed to support customer activation and help users progress through the early stages of their journey.
 
-![User Engagement Workflow](../../assets/crm-onboarding-workflow.png)
+![CRM Onboarding Workflow](../../assets/crm-onboarding-workflow.png)
 
 ### 3. Customer Journey & Transaction Engagement
 
@@ -94,7 +94,17 @@ One documented workflow focused on engaging users who had entered the transactio
 
 The work used automated communication and follow-up flows to support purchase completion.
 
-![Transaction Engagement Workflow](../../assets/professional-work/customer-engagement/transaction-flow.png)
+![CRM Customer Journey](../../assets/crm-customer-journey-overview.png)
+
+![CRM User Engagement Workflow](../../assets/crm-user-engagement-workflow.png)
+
+### 4. Lifecycle Automation Workflow
+
+Worked with automated CRM workflows to manage customer communication throughout the lifecycle.
+
+The documented workflow demonstrates how customer engagement activities could be structured through automated lifecycle stages.
+
+![CRM Lifecycle Automation Workflow](../../assets/crm-lifecycle-automation-workflow.png)
 
 ## Tools
 
@@ -130,7 +140,7 @@ Available evidence includes:
 - Campaign-related CRM activities
 - Screenshots of communication flows
 
-Additional screenshots and extracted visual assets are stored in the repository's `assets/` directory.
+The extracted visual assets used in this repository are stored centrally in the root `assets/` directory.
 
 ## Notes on Documentation
 
