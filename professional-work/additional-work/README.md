@@ -4,8 +4,6 @@ This section documents additional professional activities that supported my work
 
 These activities were not limited to a single function and included copywriting, web and application manual QA, and operational support.
 
----
-
 ## Areas of Work
 
 ### Copywriting
@@ -23,8 +21,6 @@ The work included preparing and adapting written communication for customer enga
 - Campaign communication
 - Content adaptation
 
----
-
 ### Web & Application Manual QA
 
 Performed manual quality assurance activities for web and application experiences.
@@ -41,8 +37,6 @@ The work involved checking user-facing functionality and identifying issues that
 - Issue identification
 - Customer experience validation
 
----
-
 ### Operational Support
 
 Provided additional operational support across customer, marketing, and business activities.
@@ -56,8 +50,6 @@ This included supporting day-to-day activities that required coordination betwee
 - Customer-related activities
 - Campaign support
 - Process execution
-
----
 
 ## Supporting Activities
 
