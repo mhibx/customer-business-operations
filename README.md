@@ -149,3 +149,19 @@ professional-work/
 │
 └── additional-work/
     └── Other professional activities
+```
+
+## Career Focus
+
+My professional background combines customer-facing work, business operations, technical problem solving, and workflow automation.
+
+I am currently expanding my technical background toward cybersecurity while continuing to build on my existing experience in customer support, CRM, customer success, and operations.
+
+This portfolio therefore represents an existing professional foundation rather than a collection of newly created learning projects.
+
+## Contact
+
+**Muhammad Wafi**
+
+- LinkedIn: [linkedin.com/in/mhwafi](https://www.linkedin.com/in/mhwafi/)
+- Email: mhibatullahwafi@gmail.com
