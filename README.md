@@ -12,8 +12,6 @@ Professional portfolio showcasing my experience across:
 
 This repository documents selected professional work from my previous experience, with a focus on customer lifecycle, CRM operations, user engagement, campaign execution, and operational workflows.
 
----
-
 ## About Me
 
 I am a customer and business operations professional with experience working across CRM, customer engagement, customer success, operational support, and digital business operations.
@@ -21,8 +19,6 @@ I am a customer and business operations professional with experience working acr
 My previous work involved managing customer lifecycle activities, supporting user onboarding and engagement, coordinating campaigns, working with CRM and communication platforms, and supporting operational workflows.
 
 I enjoy solving operational problems, understanding customer behavior, and improving processes through structured workflows, communication, and automation.
-
----
 
 ## Professional Experience
 
@@ -65,8 +61,6 @@ My documented professional experience includes work in areas such as:
 - Cross-functional collaboration
 - Web and application manual QA
 
----
-
 ## Professional Work
 
 The main section of this repository contains selected examples of work from my previous professional experience.
@@ -97,8 +91,6 @@ Additional professional activities including copywriting, manual QA, and operati
 
 → [`professional-work/additional-work`](./professional-work/additional-work/)
 
----
-
 ## Tools & Platforms
 
 My previous work involved various CRM, communication, productivity, and workflow tools, including:
@@ -127,8 +119,6 @@ My previous work involved various CRM, communication, productivity, and workflow
 
 The tools listed here reflect tools documented in my previous portfolio. Specific tools used for each case are documented within the relevant case study where applicable.
 
----
-
 ## Evidence & Documentation
 
 This repository follows an evidence-based approach.
@@ -142,8 +132,6 @@ Professional work documented here is based on available materials from my previo
 - Professional experience records
 
 Where original supporting evidence is no longer available, the repository will not present newly created material as original company documentation.
-
----
 
 ## Portfolio Structure
 
