@@ -84,7 +84,7 @@ The documented workflow includes automated communication using:
 
 The workflow was designed to support customer activation and help users progress through the early stages of their journey.
 
-![CRM Onboarding Workflow](../../assets/crm-onboarding-workflow.png)
+![CRM Onboarding Workflow](../assets/crm-onboarding-workflow.png)
 
 ### 3. Customer Journey & Transaction Engagement
 
