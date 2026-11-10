@@ -1,167 +1,210 @@
 # Customer & Business Operations Portfolio
 
-Professional portfolio showcasing my experience across:
+A professional portfolio showcasing my experience in merchant operations, customer relationship management, digital business operations, campaign execution, and customer engagement.
 
-- Customer Support
-- Customer Success
-- CRM
-- Customer Engagement
-- Business Operations
-- Sales / Operations Support
-- Technical / User Support
-
-This repository documents selected professional work from my previous experience, with a focus on customer lifecycle, CRM operations, user engagement, campaign execution, and operational workflows.
+This portfolio highlights practical experience in managing business operations, supporting merchants and customers, coordinating promotional activities, monitoring transactions, and using data to support operational decisions.
 
 ## About Me
 
-I am a customer and business operations professional with experience working across CRM, customer engagement, customer success, operational support, and digital business operations.
+I am a business operations professional with experience in digital business management, merchant and customer relationship management, CRM, and campaign operations.
 
-My previous work involved managing customer lifecycle activities, supporting user onboarding and engagement, coordinating campaigns, working with CRM and communication platforms, and supporting operational workflows.
+My background includes operating a digital product business, managing customer and reseller relationships, coordinating with suppliers, monitoring transactions, handling operational issues, and executing customer engagement campaigns.
 
-I enjoy solving operational problems, understanding customer behavior, and improving processes through structured workflows, communication, and automation.
+I also have experience in merchant acquisition and business development activities, including prospecting, relationship building, and introducing business solutions to potential partners.
 
-## Professional Experience
+I enjoy working across business, operations, and customer-facing teams to solve problems, improve workflows, and support business growth.
 
-My documented professional experience includes work in areas such as:
+## Core Competencies
 
-### CRM
+### Merchant Operations
+- Merchant prospecting and acquisition
+- Merchant relationship management
+- Partner and reseller coordination
+- Merchant onboarding support
+- Product and promotional information management
+- Operational issue handling
+- Cross-functional coordination
 
-- CRM lifecycle management
+### Digital Business Operations
+- Digital product operations
+- Transaction monitoring
+- Order and payment issue handling
+- Supplier coordination
+- Reseller operations
+- Business performance tracking
+- Operational process improvement
+
+### CRM & Customer Engagement
+- Customer lifecycle management
 - Customer segmentation
-- CRM automation
-- Customer onboarding
-- Customer engagement
+- Customer onboarding and activation
+- Customer engagement campaigns
 - Customer retention
+- CRM automation
 - Customer journey management
 
-### Customer Engagement
-
-- User onboarding and activation
-- Customer communication
-- Engagement workflows
-- Transaction journey support
-- Retention and re-engagement activities
-
 ### Campaign Operations
-
 - Campaign planning and execution
-- Sales and promotional campaigns
-- Customer engagement campaigns
+- Promotional campaign coordination
 - Campaign communication
+- Content and promotional material coordination
 - Campaign performance monitoring
+- Marketing operations support
 
-### Operations & Support
+### Data & Reporting
+- Google Sheets
+- Operational data management
+- Transaction and sales monitoring
+- Campaign performance analysis
+- Basic business performance reporting
+- Data organization and documentation
 
-- Customer support
-- Tier-1 user support
+### Customer Support & Problem Solving
+- Customer inquiry handling
+- Transaction issue investigation
+- Complaint handling
 - Troubleshooting
-- Operational coordination
-- Issue handling
-- Documentation
-- Cross-functional collaboration
-- Web and application manual QA
+- Customer communication
+- Process documentation
+- Operational improvement
 
 ## Professional Work
 
-The main section of this repository contains selected examples of work from my previous professional experience.
+This section contains selected examples of my previous professional work and business operations experience.
 
-> These case studies are based on information and evidence that remain available from my previous portfolio and professional records.
+### Merchant Operations
+
+Experience related to merchant acquisition, partner relationships, business development activities, and operational coordination.
+
+→ [`professional-work/merchant-operations`](./professional-work/merchant-operations/)
+
+### Digital Business Operations
+
+Experience managing digital product operations, including transaction monitoring, customer and reseller support, supplier coordination, and business performance tracking.
+
+→ [`professional-work/digital-business-operations`](./professional-work/digital-business-operations/)
 
 ### CRM
 
-Work related to CRM management, lifecycle campaigns, segmentation, and automation.
+Experience managing customer data, customer lifecycle activities, segmentation, engagement campaigns, and CRM automation.
 
 → [`professional-work/crm`](./professional-work/crm/)
 
 ### Customer Engagement
 
-Work related to onboarding, activation, customer engagement, and transaction-related user journeys.
+Examples of customer onboarding, activation, engagement, retention, and customer journey management.
 
 → [`professional-work/customer-engagement`](./professional-work/customer-engagement/)
 
 ### Campaign Operations
 
-Selected campaigns covering planning, execution, customer communication, and documented campaign results.
+Selected campaign activities covering planning, execution, promotional communication, and performance monitoring.
 
 → [`professional-work/campaign-operations`](./professional-work/campaign-operations/)
 
 ### Additional Work
 
-Additional professional activities including copywriting, manual QA, and operational support.
+Additional professional activities, including copywriting, manual QA, technical support, and operational assistance.
 
 → [`professional-work/additional-work`](./professional-work/additional-work/)
 
+## Demonstrations & Practical Projects
+
+This section contains structured demonstrations and practical exercises designed to document my understanding of customer operations, CRM processes, and business workflows.
+
+These projects are self-directed demonstrations and should be distinguished from my previous professional work.
+
+### Customer Service Operations
+
+A practical demonstration covering customer journeys, ticket management, complaint handling, customer segmentation, issue analysis, and knowledge base documentation.
+
+→ [`demonstrations/customer-service`](./demonstrations/customer-service/)
+
+### Salesforce Customer Lifecycle
+
+A Salesforce-based demonstration of customer lifecycle management, data relationships, case management, workflow automation, and reporting.
+
+→ [`demonstrations/salesforce-customer-lifecycle`](./demonstrations/salesforce-customer-lifecycle/)
+
 ## Tools & Platforms
 
-My previous work involved various CRM, communication, productivity, and workflow tools, including:
+Tools and platforms documented in my previous work include:
 
 ### CRM & Customer Engagement
-
 - Netcore / WebEngage
 - Braze
 - Qontak
 - Mailjet
 - n8n
-- WhatsApp-based systems
 
-### Productivity & Operations
-
+### Business Operations & Productivity
 - Google Workspace
+- Google Sheets
 - Trello
 - ClickUp
 - Notion
 
-### Creative & Communication
-
+### Communication & Creative Tools
+- WhatsApp Business
+- Telegram
 - Canva
-- ChatGPT
-- Gemini
 
-The tools listed here reflect tools documented in my previous portfolio. Specific tools used for each case are documented within the relevant case study where applicable.
+### Technical Tools
+- GitHub
+- Linux
+- Docker
+
+The tools listed reflect my documented experience and practical exposure. Specific tools used for each activity are described in the relevant portfolio section.
 
 ## Evidence & Documentation
 
-This repository follows an evidence-based approach.
+This portfolio is based on available professional records, previous portfolio materials, campaign documentation, screenshots, and practical demonstrations.
 
-Professional work documented here is based on available materials from my previous experience, including:
+Professional work and self-directed projects are presented separately to maintain transparency.
 
-- Previous portfolio documentation
-- Screenshots and workflow visuals
-- Campaign materials
-- Documented results
-- Professional experience records
-
-Where original supporting evidence is no longer available, the repository will not present newly created material as original company documentation.
+Any sample data or simulated scenarios used in demonstrations are for learning and portfolio purposes only. They do not represent actual company or customer records.
 
 ## Portfolio Structure
 
 ```text
-professional-work/
+customer-business-operations-portfolio/
 │
-├── crm/
-│   └── CRM-related professional work
+├── professional-work/
+│   ├── merchant-operations/
+│   ├── digital-business-operations/
+│   ├── crm/
+│   ├── customer-engagement/
+│   ├── campaign-operations/
+│   ├── additional-work/
+│   └── assets/
 │
-├── customer-engagement/
-│   └── Customer lifecycle and engagement work
+├── demonstrations/
+│   ├── customer-service/
+│   └── salesforce-customer-lifecycle/
 │
-├── campaign-operations/
-│   └── Campaign planning and execution
-│
-└── additional-work/
-    └── Other professional activities
+└── reconstructed-experience/
 ```
 
 ## Career Focus
 
-My professional background combines customer-facing work, business operations, technical problem solving, and workflow automation.
+I am interested in opportunities in:
 
-I am currently expanding my technical background toward cybersecurity while continuing to build on my existing experience in customer support, CRM, customer success, and operations.
+- Merchant Operations
+- Marketplace Operations
+- Business Operations
+- Customer Operations
+- Partner Operations
+- CRM Operations
 
-This portfolio therefore represents an existing professional foundation rather than a collection of newly created learning projects.
+I aim to contribute through merchant and customer relationship management, operational coordination, campaign execution, problem solving, and data-driven operational improvements.
+
+My goal is to help businesses improve operational efficiency, strengthen merchant relationships, and support sustainable business growth.
+
+This portfolio represents my existing professional experience, supported by selected work documentation and separate self-directed demonstrations.
 
 ## Contact
 
-**Muhammad Wafi**
+**Muhammad Hibatullah Wafi**
 
-- LinkedIn: [linkedin.com/in/mhwafi](https://www.linkedin.com/in/mhwafi/)
+- LinkedIn: [linkedin.com/in/mhwafi](https://linkedin.com/in/mhwafi/)
 - Email: mhibatullahwafi@gmail.com
