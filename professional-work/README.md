@@ -1,102 +1,134 @@
-# Merchant Operations
 
-This section highlights my experience in managing business relationships, coordinating partners and resellers, supporting business operations, and maintaining service quality in a digital product business.
+# Professional Work
 
-My experience comes primarily from operating Insider Top Up, a digital gaming top-up business, where I handled several operational activities involving suppliers, resellers, customers, and promotional programs.
+This section documents selected professional experience and hands-on business operations across merchant operations, digital business operations, customer engagement, CRM, and campaign management.
 
-## Overview
+The portfolio combines experience from previous professional roles and hands-on operational experience managing Insider Top Up, a digital gaming top-up business.
 
-Merchant and partner operations require consistent communication, reliable transaction processes, clear product information, and effective issue resolution.
+Each section focuses on practical responsibilities, workflows, operational capabilities, and available supporting evidence.
 
-Through my experience operating a digital product business, I developed practical skills in coordinating external partners, supporting reseller activities, monitoring transactions, and handling operational issues that could affect the customer experience.
+## Areas of Experience
 
-## Key Responsibilities & Experience
+### 1. Merchant Operations
 
-### 1. Partner and Reseller Management
+[View Merchant Operations](merchant-operations/)
 
-- Managed relationships with resellers and business partners.
-- Supported reseller registration and onboarding activities.
-- Communicated product information, pricing, and operational procedures.
-- Assisted partners with transaction-related questions and issues.
-- Coordinated reseller program activities and promotional opportunities.
+Documents experience related to partner and reseller management, supplier coordination, product information, operational support, and promotional activities.
 
-### 2. Supplier Coordination
+**Key areas:**
+- Partner and reseller relationship management
+- Onboarding and operational guidance
+- Supplier coordination
+- Product and service operations
+- Transaction support
+- Promotional coordination
 
-- Coordinated with digital product suppliers to support transaction fulfillment.
-- Monitored supplier-related transaction issues.
-- Followed up on failed, delayed, or problematic transactions.
-- Communicated operational issues and collected relevant transaction information.
-- Supported coordination between supplier processes and customer service activities.
+**Experience context:** Insider Top Up business operations and related partner-facing activities.
 
-### 3. Product and Service Operations
+### 2. Digital Business Operations
 
-- Managed digital product information for gaming top-up services.
-- Monitored product availability and transaction fulfillment.
-- Maintained product and pricing information across business operations.
-- Supported operational consistency across different digital product categories.
+[View Digital Business Operations](digital-business-operations/)
 
-### 4. Transaction and Issue Management
+Documents the operational processes involved in managing a digital gaming top-up business, including transaction processing, supplier fulfillment, payment verification, and issue resolution.
 
-- Monitored transaction statuses and fulfillment processes.
-- Investigated failed or delayed transactions.
-- Coordinated issue resolution with suppliers and relevant parties.
-- Supported refund and complaint-handling processes.
-- Maintained communication with customers and resellers until issues were addressed.
+**Key areas:**
+- Transaction lifecycle management
+- Product and supplier coordination
+- Payment processing and verification
+- Transaction monitoring
+- Failed transaction investigation
+- Issue and refund management
+- Reseller operations
+- Business performance monitoring
 
-### 5. Promotional and Campaign Coordination
+**Supporting documentation:**
+- [Transaction Workflow](digital-business-operations/transaction-workflow.md)
+- [Issue and Refund Management](digital-business-operations/issue-and-refund-management.md)
 
-- Supported promotional activities for customers and resellers.
-- Coordinated campaign information and promotional materials.
-- Communicated campaign details through digital channels.
-- Supported reseller engagement through promotional programs.
+**Experience context:** Insider Top Up business operations.
 
-## Operational Workflow
+### 3. Customer Engagement
 
-The following workflow represents the general operational process involved in managing digital product transactions and partner coordination.
+[View Customer Engagement](customer-engagement/)
 
-1. **Partner Engagement** — Communicate with suppliers and resellers regarding products, pricing, and operational requirements.
-2. **Product Information** — Maintain product details and relevant operational information.
-3. **Order Processing** — Monitor incoming orders and transaction processing.
-4. **Transaction Monitoring** — Track transaction status and identify potential fulfillment issues.
-5. **Issue Resolution** — Coordinate with suppliers and relevant parties to investigate and resolve problems.
-6. **Partner Communication** — Provide updates and maintain communication with affected partners or customers.
-7. **Performance Monitoring** — Review transaction activity and operational performance.
+Documents selected professional work involving customer onboarding, user activation, transaction journey engagement, and customer lifecycle communication.
 
-## Tools & Platforms
+**Key areas:**
+- User onboarding and activation
+- First-purchase engagement
+- Transaction journey communication
+- Customer lifecycle engagement
+- Multi-channel communication
+- Retention and conversion activities
 
-Tools and platforms used in relevant business operations include:
+**Experience context:** Previous professional experience.
 
-- Google Sheets — operational records and data tracking.
-- WhatsApp Business — customer and partner communication.
-- Telegram — business communication and operational notifications.
-- Digiflazz — digital product supplier integration.
-- n8n — workflow automation.
+### 4. CRM
 
-Specific tools were used for different operational purposes. Their involvement should be understood in the context of the activities documented in this portfolio.
+[View CRM](crm/)
 
-## Relevance to Merchant Operations
+Documents selected professional work involving CRM management, customer segmentation, lifecycle campaigns, and automated communication workflows.
 
-My experience has helped me develop practical capabilities that are relevant to merchant and marketplace operations:
+**Key areas:**
+- CRM lifecycle management
+- Customer segmentation
+- CRM campaign management
+- Customer engagement automation
+- Retention activities
+- Cross-functional coordination
 
-- Partner and reseller relationship management.
-- Onboarding and operational support.
-- Product information management.
-- Transaction monitoring and issue resolution.
-- Promotional coordination.
-- Operational communication.
-- Data tracking and reporting.
-- Cross-functional problem solving.
+**Documented tools include:**
+- Netcore / WebEngage
+- Braze
+- Qontak
+- Mailjet
+- n8n
 
-Although my experience comes from operating a digital product business rather than directly managing merchants on platforms such as TikTok GO, GoFood, or GrabFood, many of the operational principles are transferable.
+**Experience context:** Previous professional experience. Specific tools are attributed only where supported by available documentation.
 
-## Scope of Experience
+### 5. Campaign Operations
 
-This documentation represents my actual business operations experience and does not claim direct experience managing merchant accounts on third-party local-service marketplaces.
+[View Campaign Operations](campaign-operations/)
 
-The examples and workflows described here are based on my experience with Insider Top Up and related business activities.
+Documents selected sales and promotional campaigns, including campaign execution, customer engagement, and performance monitoring.
 
-## Summary
+**Key areas:**
+- Campaign planning and execution
+- Sales and promotional initiatives
+- Promotional communication
+- Customer engagement
+- Campaign performance monitoring
 
-My experience in merchant and partner-related operations combines relationship management, supplier coordination, reseller support, transaction monitoring, and promotional execution.
+**Selected documented results:**
+- 10× Gross Transaction Value — Steam WADIDAW
+- 1,143% ROAS — 11.11 Nolep
+- 125% increase in social media impressions — Santa's Gift
 
-I aim to apply these capabilities in merchant operations roles, particularly in environments that require effective partner communication, reliable operational execution, and data-driven decision making.
+**Experience context:** Previous professional experience.
+
+## Professional Focus
+
+The experience documented in this portfolio demonstrates capabilities across several interconnected business functions:
+
+- Merchant and partner relationship management
+- Digital business and transaction operations
+- Customer engagement and lifecycle management
+- CRM and campaign operations
+- Operational issue investigation and resolution
+- Performance monitoring and reporting
+
+These capabilities provide a foundation for working in merchant operations, marketplace operations, and other customer-facing business operations roles.
+
+## Documentation Principles
+
+This portfolio follows an evidence-based approach.
+
+- Professional experience and independent business operations are distinguished by their respective contexts.
+- Demonstrations and self-directed projects are documented separately from professional work.
+- Supporting evidence is included where available.
+- Historical work is documented based on available portfolio materials and records.
+- Details that cannot be verified are not presented as established facts.
+
+---
+
+[Back to Main Portfolio](../README.md)
