@@ -1,3 +1,4 @@
+
 # CRM
 
 This section documents selected professional work involving CRM management, customer lifecycle campaigns, user segmentation, and CRM automation.
@@ -6,11 +7,9 @@ The work documented here comes from my previous professional experience and is b
 
 ## Overview
 
-My CRM-related work focused on managing customer lifecycle activities and using CRM systems to support onboarding, engagement, retention, and conversion.
+My CRM-related work focused on managing customer lifecycle activities and using CRM platforms to support onboarding, engagement, retention, and conversion.
 
-My responsibilities included working with customer segments, designing and managing lifecycle campaigns, and coordinating communication flows across different customer touchpoints.
-
-I also worked closely with operations and marketing teams to support customer engagement initiatives and lifecycle activities.
+Responsibilities included working with customer segments, managing lifecycle campaigns, designing automated communication workflows, and coordinating CRM activities with marketing and operations teams.
 
 ## Areas of Work
 
@@ -32,9 +31,9 @@ Activities included:
 
 Worked with customer and user segments to support more relevant communication and lifecycle activities.
 
-Segmentation was used as part of CRM workflows to determine how users should be engaged based on their position within the customer journey.
+Segmentation helped determine how users should be engaged based on their position within the customer journey.
 
-### CRM Automation
+### CRM Campaign & Automation
 
 Designed and managed automated customer communication workflows using CRM platforms.
 
@@ -47,23 +46,23 @@ These workflows supported activities such as:
 - Transaction-related communication
 - Follow-up communication
 
-The portfolio evidence includes visual workflow examples showing automated communication across multiple channels.
+The available portfolio evidence includes visual workflow examples showing automated communication across multiple channels.
 
 ## Selected Professional Work
 
 ### 1. CRM Lifecycle Management
 
-Managed customer lifecycle campaigns, user segmentation, and CRM automation to support onboarding, engagement, retention, and conversion performance.
+Managed customer lifecycle campaigns, user segmentation, and CRM automation to support onboarding, engagement, retention, and conversion activities.
 
 The work involved coordinating CRM activities with broader marketing and operational initiatives.
 
-**Focus:**
+**Focus areas:**
 
 - Lifecycle management
 - Customer segmentation
 - CRM automation
-- Customer onboarding
-- Engagement
+- Campaign management
+- Customer engagement
 - Retention
 - Conversion
 
@@ -139,6 +138,20 @@ Available evidence includes:
 - Screenshots of communication flows
 
 The extracted visual assets used in this repository are stored centrally in the root `assets/` directory.
+
+## Relevance to Merchant Operations
+
+CRM experience provides a foundation for supporting merchant-facing engagement initiatives and marketplace campaigns.
+
+Relevant capabilities include:
+
+- Customer segmentation for targeted promotions.
+- Campaign communication planning.
+- Automated customer engagement.
+- Lifecycle-based communication.
+- Coordination between marketing and operational activities.
+
+These capabilities can support merchant promotional campaigns, voucher distribution initiatives, and customer engagement programs.
 
 ## Notes on Documentation
 
