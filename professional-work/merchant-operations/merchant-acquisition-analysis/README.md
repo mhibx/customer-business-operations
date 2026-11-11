@@ -4,42 +4,41 @@
 
 This project analyzes merchant acquisition performance across different lead sources using a synthetic dataset of 120 prospective merchants.
 
-The analysis focuses on understanding how effectively each acquisition channel generates leads and converts them into acquired merchants.
+The objective is to understand how effectively different acquisition channels generate leads and convert them into acquired merchants.
 
-The project uses Microsoft Excel to organize data, build PivotTables, calculate acquisition metrics, and create visualizations.
+The analysis was conducted using Microsoft Excel, utilizing PivotTables, Excel formulas, and data visualizations.
 
-> **Note:** All data used in this project is synthetic and created for portfolio and analytical demonstration purposes. It does not represent actual company or business records.
+> **Disclaimer:** All data used in this project is synthetic and created exclusively for portfolio and analytical demonstration purposes. It does not represent actual company or business records.
 
 ## Business Context
 
-Merchant acquisition is an important part of marketplace and digital platform operations.
+Merchant acquisition is an important operational activity for marketplaces and digital platforms.
 
-Businesses may acquire prospective merchants through multiple channels, including:
+Businesses can identify and acquire prospective merchants through various channels, such as:
 
 - Social media sellers
-- Google Search
-- Paid advertising
+- Google Search and top-up websites
+- Paid advertising campaigns
 - Gaming communities
 - Competitor marketplaces
 
-Each channel may produce different lead volumes and acquisition outcomes.
+Each acquisition channel may produce different lead volumes and conversion outcomes.
 
-This analysis aims to provide an initial understanding of channel performance and identify which sources generate the most acquired merchants.
+Understanding these differences can help businesses evaluate their acquisition strategy and identify potentially effective channels.
 
 ## Project Objectives
 
 1. Analyze monthly lead generation and merchant acquisition trends.
 2. Compare lead volume across different acquisition sources.
 3. Measure acquisition conversion rates by source.
-4. Identify potential differences in acquisition channel performance.
+4. Identify differences in acquisition channel performance.
+5. Evaluate an initial hypothesis regarding merchants with previous marketplace experience.
 
 ## Dataset Overview
 
-The dataset contains 120 synthetic merchant leads covering January–June 2026.
+The dataset contains 120 synthetic merchant leads identified between January and June 2026.
 
-Key fields include:
-
-| Field | Description |
+| Attribute | Description |
 |---|---|
 | Lead ID | Unique identifier for each lead |
 | Merchant Name | Synthetic merchant name |
@@ -48,7 +47,7 @@ Key fields include:
 | Source Detail | More specific source information |
 | City | Merchant location |
 | Product Category | Merchant product category |
-| Previous Marketplace Experience | Whether the merchant has prior marketplace experience |
+| Previous Marketplace Experience | Whether the merchant has previous marketplace experience |
 | First Contact Date | Date of first contact |
 | Contact Status | Contact progress |
 | Acquisition Date | Date the merchant was acquired |
@@ -58,42 +57,43 @@ Key fields include:
 | First Transaction Date | Date of the first transaction |
 | Activation Status | Whether the merchant has completed a first transaction |
 
-## Analysis Scope
+## Analysis & Visualizations
 
-This version focuses on two visualizations.
+This version focuses on two areas of merchant acquisition performance.
 
 ### 1. Monthly Lead Generation vs. Merchant Acquisition
 
-**Business question:** Are monthly lead volumes translating into successful merchant acquisitions?
+**Business Question:** Are monthly lead volumes translating into successful merchant acquisitions?
 
-The analysis compares:
+This visualization compares:
 
-- Leads identified by month.
-- Merchants acquired by acquisition month.
+- Monthly leads identified.
+- Monthly merchants acquired.
 
-| Month | Leads Identified | Merchants Acquired |
-|---|---:|---:|
-| Jan 2026 | 20 | 10 |
-| Feb 2026 | 20 | 8 |
-| Mar 2026 | 20 | 9 |
-| Apr 2026 | 20 | 10 |
-| May 2026 | 20 | 8 |
-| Jun 2026 | 20 | 8 |
-| Jul 2026 | 0 | 4 |
+![Monthly Lead Generation vs. Merchant Acquisition](visualizations/monthly-lead-acquisition.png)
 
-**Key observations:**
+**Key Observations:**
 
 - Lead generation remained consistent at 20 leads per month from January to June.
-- Merchant acquisitions ranged from 8 to 10 per month during January–June.
-- Four additional merchants were acquired in July from leads identified in earlier periods.
+- Monthly merchant acquisitions ranged from 8 to 10 during January–June.
+- Four additional merchants were acquired in July from leads identified in previous months.
+- Lead generation and merchant acquisition are measured using different date fields.
 
-The different date fields are used intentionally: lead generation is measured by Lead Identified Date, while acquisition is measured by Acquisition Date.
+**Business Interpretation:**
+
+Consistent lead generation does not necessarily result in acquisitions within the same month. Tracking both lead identification and acquisition dates provides a clearer view of the acquisition process over time.
 
 ### 2. Lead Generation vs. Merchant Acquisition by Source
 
-**Business question:** Which acquisition channels generate the highest number of acquired merchants?
+**Business Question:** Which acquisition channels generate the highest number of acquired merchants?
 
-| Lead Source | Leads | Acquired | Acquisition Rate |
+This visualization compares lead volume and acquired merchants across five acquisition sources.
+
+![Lead Generation vs. Merchant Acquisition by Source](visualizations/acquisition-by-source.png)
+
+**Acquisition Performance:**
+
+| Lead Source | Leads Identified | Merchants Acquired | Acquisition Rate |
 |---|---:|---:|---:|
 | Competitor Marketplace | 20 | 10 | 50.0% |
 | Gaming Community | 25 | 10 | 40.0% |
@@ -102,51 +102,73 @@ The different date fields are used intentionally: lead generation is measured by
 | Social Media | 30 | 14 | 46.7% |
 | **Total** | **120** | **57** | **47.5%** |
 
-**Key observations:**
+**Key Observations:**
 
 - Social Media generated the highest lead volume, with 30 leads and 14 acquired merchants.
 - Google Search achieved the highest acquisition rate at 52%.
-- Competitor Marketplace and Paid Advertising both achieved 50%.
-- Gaming Community had the lowest acquisition rate at 40%.
+- Competitor Marketplace and Paid Advertising both achieved a 50% acquisition rate.
+- Gaming Community recorded the lowest acquisition rate at 40%.
 
-Google Search performed slightly better than Competitor Marketplace in acquisition conversion, so the initial hypothesis that competitor marketplace leads would convert more effectively is not supported by this dataset.
+**Hypothesis Evaluation:**
+
+An initial hypothesis suggested that merchants sourced from competitor marketplaces might be easier to acquire because they are already familiar with marketplace workflows.
+
+However, the synthetic dataset shows that Google Search achieved a slightly higher acquisition rate (52%) compared to Competitor Marketplace (50%).
+
+Therefore, the initial hypothesis is not supported by the current dataset.
+
+Further analysis would be required to understand whether previous marketplace experience influences acquisition outcomes.
+
+## Key Metrics
+
+**Total Leads Identified:** 120
+
+**Total Merchants Acquired:** 57
+
+**Overall Acquisition Rate:** 47.5%
+
+Acquisition Rate is calculated using:
+
+`Acquisition Rate = Merchants Acquired / Total Leads Identified × 100%`
 
 ## Methodology
 
-The analysis was conducted using Microsoft Excel.
+The analysis was performed using Microsoft Excel.
 
 1. Organized the source data into an Excel Table.
-2. Created helper fields for monthly lead and acquisition grouping.
+2. Created helper columns to group lead identification and acquisition dates by month.
 3. Built PivotTables to aggregate lead and acquisition counts.
-4. Created summary tables for visualization.
+4. Created summary tables for the visualizations.
 5. Used combination charts to compare lead volume and merchant acquisition.
-6. Calculated acquisition rate using:
+6. Calculated acquisition rates for each lead source.
 
-`Acquisition Rate = Acquired Merchants / Total Leads × 100%`
-
-## Tools Used
+## Tools & Techniques
 
 - Microsoft Excel
 - PivotTables
+- Excel Tables
+- Excel Formulas
 - Combo Charts
-- Excel formulas
-- CSV dataset
+- Data Aggregation
+- Conversion Rate Analysis
 
 ## Limitations
 
 - The dataset is synthetic and does not represent actual business performance.
-- The analysis describes the generated dataset and should not be interpreted as evidence of real-world channel effectiveness.
-- Acquisition and lead generation are measured using different date fields.
-- This version does not yet analyze onboarding completion or first-transaction activation performance.
+- Findings describe the generated dataset and should not be interpreted as evidence of real-world channel effectiveness.
+- Lead generation and merchant acquisition are measured using different date fields.
+- The analysis currently focuses on lead generation and merchant acquisition.
+- Onboarding completion and first-transaction activation have not yet been analyzed.
 
 ## Future Analysis
 
-Potential next steps include:
+Potential extensions for this case study include:
 
 - Merchant onboarding completion analysis.
 - First-transaction activation analysis.
 - Time to first transaction by acquisition source.
 - Comparison of acquisition and activation performance across channels.
+- Evaluation of the relationship between previous marketplace experience and merchant activation.
 
 These topics are intentionally outside the scope of the current version.
 
